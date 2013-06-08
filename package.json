@@ -1,0 +1,13 @@
+{
+  "author": "Cole Gillespie <mcg42387@gmail.com>",
+  "description": "simple template for quick http server",
+  "dependencies" : {
+    "flatiron" :  "0.1.x",
+    "union"    :  "0.1.x",
+    "ecstatic" :  "0.4.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
